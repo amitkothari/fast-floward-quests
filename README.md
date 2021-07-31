@@ -16,3 +16,6 @@
   - [createCollection.transactions.cdc](https://github.com/amitkothari/fast-floward-quests/blob/master/artist/createCollection.transaction.cdc)
   - [print.transaction.cdc](https://github.com/amitkothari/fast-floward-quests/blob/master/artist/print.transaction.cdc)
 - [W1Q7](https://github.com/amitkothari/fast-floward-quests/blob/master/artist/displayCollection.script.cdc)
+
+### Day 4
+- [W1Q8](https://github.com/amitkothari/fast-floward-quests/blob/master/week1/quest.md)
