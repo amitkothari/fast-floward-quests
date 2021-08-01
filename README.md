@@ -19,3 +19,6 @@
 
 ### Day 4
 - [W1Q8](https://github.com/amitkothari/fast-floward-quests/blob/master/week1/quest.md)
+
+### Day 5
+- [W1Q9](https://github.com/amitkothari/fast-floward-quests/tree/master/week1/day5)

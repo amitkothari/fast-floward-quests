@@ -2,3 +2,4 @@ flow.json
 *.rlp
 hello
 flowdb
+node_modules
